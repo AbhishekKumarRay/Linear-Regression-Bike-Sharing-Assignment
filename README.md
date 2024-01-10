@@ -43,6 +43,18 @@ When you're done with model building and residual analysis and have made predict
 where y_test is the test data set for the target variable, and y_pred is the variable containing the predicted values of the target variable on the test set.
 Please don't forget to perform this step as the R-squared score on the test set holds some marks. The variable names inside the 'r2_score' function can be different based on the variable names you have chosen.
 
+## Technologies Used:
+
+ - Python - version 3.7.6
+ - numpy - version 1.20.3
+ - pandas - version 1.3.4
+ - matplotlib - version 3.4.3
+ - plotly - version 5.6.0
+ - seaborn - version 0.11.2
+ - statsmodels - version 0.12.2
+ - sklearn - version 0.24.2
+ - scipy - version 1.7.1
+
 
 # Comparision between Training and Testing dataset:
     - Train dataset R^2          : 0.841
